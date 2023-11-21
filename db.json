@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Monster Cactus",
+      "image": "https://www.nps.gov/common/uploads/stories/images/nri/20150518/articles/136C68DF-F476-DEB0-BF68216ADB5B3322/136C68DF-F476-DEB0-BF68216ADB5B3322.jpg",
+      "price": 15.74,
+      "id": 8
+    },
+    {
+      "name": "Pinkest Rose",
+      "image": "https://www.southernliving.com/thmb/zJ1oRSW41ODX32ofxVCF5BnBF2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-477129017-2000-2f13bf561b79478d9072d4fa34abfc42-37c0e303cd7c400492f58b42c3f77e4f.jpg",
+      "price": 23.45,
+      "id": 9
+    },
+    {
+      "name": "Reddest Rose",
+      "image": "https://www.ebloomsdirect.com/cdn/shop/products/Royal_explorer_Rose_grande.jpg?v=1582662732",
+      "price": 69.91,
+      "id": 10
     }
   ]
 }
